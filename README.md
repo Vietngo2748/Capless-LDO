@@ -23,15 +23,20 @@ This project discusses the design of capless LDO with compensation technique.
 *****************
 ### Implementation:
 <img width="822" height="605" alt="image" src="https://github.com/user-attachments/assets/6ecd6dce-e6ae-4c18-bb74-d8cc692506c1" />
+
 ### Testbench Schematics:
-DC and AC Analysis
+### DC and AC Analysis
 <img width="1072" height="701" alt="image" src="https://github.com/user-attachments/assets/94104080-40fa-4c70-aeb0-fe2bc3a6d49b" />
-Load regulation and Transient
+
+### Load regulation and Transient
 <img width="1000" height="696" alt="image" src="https://github.com/user-attachments/assets/9a6f112a-e3b8-4a1c-8a94-80efac75257a" />
+
 ### PSRR:
 <img width="1500" height="528" alt="image" src="https://github.com/user-attachments/assets/1bf7da39-3771-45b1-b4f6-16ced87adc41" />
+
 ### Load Transient Response:
 <img width="1500" height="533" alt="image" src="https://github.com/user-attachments/assets/cbb9ab45-cafc-4c34-9618-54b21b68fa50" />
+
 ### Monte Carlo:
 <img width="1500" height="528" alt="image" src="https://github.com/user-attachments/assets/69bebe60-a28b-4163-8d5a-e0a0db6b4b83" />
 
